@@ -22,4 +22,11 @@
 15. **NAS** :NAS (network-attached storage) refers to a file-level storage server connected to a computer network, providing data access to a group of users on that network. A NAS system connects via an Ethernet network and has redundant data structures for resiliency. It’s designed to be an affordable and easy-to-maintain network storage option.
 16. **CAN**: A campus network, campus area network, corporate area network or CAN is a computer network made up of an interconnection of local area networks (LANs) within a limited geographical area. The networking equipments (switches, routers) and transmission media (optical fiber, copper plant, Cat5 cabling etc.) are almost entirely owned by the campus tenant / owner: an enterprise, university, government etc.[3] A campus area network is larger than a local area network but smaller than a metropolitan area network (MAN) or wide area network (WAN).
 17. **Router** :A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions between networks and on the global Internet. Data sent through a network, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an internetwork (e.g. the Internet) until it reaches its destination node.
-18. 
+
+# **AWS KEYWORDS**
+1.**Anamoly Detection**
+    - Anomaly detection identifies suspicious activity that falls outside of your established normal patterns of behavior. A solution protects your system in real-time from instances that could result in significant financial losses, data breaches, and other harmful events.
+2. **Amazon Cloudwatch**
+       - it is a service that monitors application, responds to performance changes, optimizes resource  use, and provides insights into operational health.
+ 3. 
+ 
