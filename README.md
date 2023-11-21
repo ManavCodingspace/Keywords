@@ -28,5 +28,9 @@
     - Anomaly detection identifies suspicious activity that falls outside of your established normal patterns of behavior. A solution protects your system in real-time from instances that could result in significant financial losses, data breaches, and other harmful events.
 2. **Amazon Cloudwatch**
        - it is a service that monitors application, responds to performance changes, optimizes resource  use, and provides insights into operational health.
- 3. 
- 
+ 3. **S3**
+      - it is ana object storage service offering industry-leading scalability, data availability, security, and performance.
+      - Resources Based 
+         +  Bucket Policies
+         + Bucket ACLs
+         + OBJECT ACLs
